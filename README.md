@@ -13,3 +13,7 @@
 
 # Requirements?
 **- Only Your Discord Channel Webhook.**
+
+# How To Download The Tool : 
+
+  You Can Download The Tool Using Releases Section Or By This Url : www.github.com/Sho3laIsHere/HackerOne-Notifier/releases/tag/v1.0
