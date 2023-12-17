@@ -1,5 +1,8 @@
 <h1 align="center"> HackerOne Notifier </h1>
 
+<h2>Social</h2>
+Discord Server : https://discord.gg/wqgr9GCtxm
+
 <h2>Tool's Idea:</h2>
 
 **This Tool Helps Bug Hunters To Know The Latest Program In HackerOne And Send A Notification In Discord Channel Through Webhook.**
